@@ -1,12 +1,12 @@
 {
-  data: [
+  "data": [
    {
-     id: "1",
-     title: "That Time I Got Reincarnated as a Slime Gets Manga Spinoff About Clayman",
-     desc: "The May issue of Kodansha's Monthly Shōnen Sirius magazine revealed last Saturday that Wataru Kajika will launch a new spinoff manga for Fuse and Mitz Vah's That Time I Got Reincarnated as a Slime (Tensei Shitara Slime Datta Ken) light novel series titled Tensei Shitara Slime Datta Ken: Clayman Revenge (That Time I Got Reincarnated as a Slime: Clayman Revenge) in the magazine's next issue on April 26. The manga centers on a new story about the Demon Lord Clayman. ",
-     author: "Roxza",
-     path: "that-time-i-got-reincarnated-as-a-slime-gets-manga-spinoff-about-clayman.md",
-     date: "21/06/2022"
+     "id": "1",
+     "title": "That Time I Got Reincarnated as a Slime Gets Manga Spinoff About Clayman",
+     "desc": "The May issue of Kodansha's Monthly Shōnen Sirius magazine revealed last Saturday that Wataru Kajika will launch a new spinoff manga for Fuse and Mitz Vah's That Time I Got Reincarnated as a Slime (Tensei Shitara Slime Datta Ken) light novel series titled Tensei Shitara Slime Datta Ken: Clayman Revenge (That Time I Got Reincarnated as a Slime: Clayman Revenge) in the magazine's next issue on April 26. The manga centers on a new story about the Demon Lord Clayman. ",
+     "author": "Roxza",
+     "path": "that-time-i-got-reincarnated-as-a-slime-gets-manga-spinoff-about-clayman.md",
+     "date": "21/06/2022"
    }
   ]
 }
